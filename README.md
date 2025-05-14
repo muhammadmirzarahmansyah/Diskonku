@@ -34,8 +34,6 @@ Berikut adalah tampilan aplikasi **DiskonKu**:
 ## Kontribusi
 Jika kamu ingin berkontribusi pada proyek ini, kamu bisa melakukannya dengan mengirimkan pull request. Pastikan untuk membuat branch baru untuk fitur atau perbaikan yang kamu buat.
 
-## Lisensi
-Proyek ini dilisensikan di bawah MIT License - lihat file [LICENSE](LICENSE) untuk detail lebih lanjut.
 
 ## Hubungi
 Jika ada pertanyaan atau masukan, kamu bisa menghubungi saya di:

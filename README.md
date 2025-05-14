@@ -29,7 +29,7 @@ DiskonKu adalah sebuah aplikasi web yang memungkinkan pengguna untuk menghitung 
 
 Berikut adalah tampilan aplikasi **DiskonKu**:
 
-![DiskonKu Screenshot](images/screenshot.jpg)
+![DiskonKu Screenshot](Tampilan Diskonku!.png)
 
 ## Kontribusi
 Jika kamu ingin berkontribusi pada proyek ini, kamu bisa melakukannya dengan mengirimkan pull request. Pastikan untuk membuat branch baru untuk fitur atau perbaikan yang kamu buat.
